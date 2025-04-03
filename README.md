@@ -1,6 +1,5 @@
 # Photo_Background_edit_using_Python
 ## This script uses the rembg library to remove image backgrounds and add a white background.
-## Taking Help from  OpenAI's ChatGPT.
 
 # Image Background Remover
 
