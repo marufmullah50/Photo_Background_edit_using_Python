@@ -8,7 +8,7 @@ It uses the `rembg` library along with Python's `Pillow` library.
 
 ## Features
 - Removes image backgrounds using `rembg`.
-- Adds a white background to processed images.
+- Adds a selected color background to processed images.
 - Saves the output as a downloadable file.
 ## Usage
 1. Upload an image when prompted.
